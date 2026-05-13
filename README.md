@@ -3,9 +3,9 @@
 [![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/qianmoss) [![sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/qianmoss)
 
 <!-- markdownlint-disable MD033 -->
-![Typing](<a href="https://app.daily.dev/devsabt">
+<a href="https://app.daily.dev/devsabt">
   <img src="https://api.daily.dev/devcards/v2/UXKupCzuZfh3rwcewD8SK.png?r=npl&type=wide" width="652" alt="Dev Sabt's Dev Card"/>
-</a>)
+</a>
 <!-- markdownlint-enable MD033 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=900&pause=2000&color=B9BCFF&background=FFFFFF00&multiline=true&width=435&height=110&lines=Founder+at+Cartian;Cyber+Security+Expert;Full-Stack+Developer)](https://git.io/typing-svg)
