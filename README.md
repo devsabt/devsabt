@@ -4,7 +4,7 @@
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://app.daily.dev/devsabt">
-  <img src="https://api.daily.dev/devcards/v2/UXKupCzuZfh3rwcewD8SK.png?r=npl&type=default" width="356" alt="Dev Sabt's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/UXKupCzuZfh3rwcewD8SK.png?r=npl&type=wide" width="652" alt="Dev Sabt's Dev Card"/>
 </a>
 <!-- markdownlint-enable MD033 -->
 
